@@ -1,0 +1,15 @@
+#
+# .gitignore
+#
+
+## TEMPORARY & BACKUP FILES ##
+
+*~
+*.bak
+*.tmp
+*.swp
+
+
+## BUILD ARTIFACTS ##
+
+*.so
